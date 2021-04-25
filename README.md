@@ -1,1 +1,1 @@
-# Jane Street puzzle solutions
+Jane Street puzzle solutions.
