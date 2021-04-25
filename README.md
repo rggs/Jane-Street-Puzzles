@@ -1,2 +1,1 @@
-# bracketology_101
- Solution to Jane Street's Braacketology 101 puzzle.
+# Jane Street puzzle solutions
